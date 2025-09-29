@@ -1,6 +1,4 @@
 print("2222")
 print("hello world")
-print("222223")
+print("333")
 #343
-
-#ssssss
